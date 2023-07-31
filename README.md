@@ -1,4 +1,4 @@
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone - Classifying Skin Diseases with Computer Vision
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone - Classifying Skin Diseases using Computer Vision
 
 ### Problem Statement
 In Singapore, minor skin ailments are prevalent. One example would be eczema, which affects up to 20% of children and 10% of adults<sup>1</sup>. The top 4 skin diseases in Singapore are eczema, acne, viral and fungal skin infections<sup>2</sup>. Mild cases of all these conditions are self-treatable, but the general knowledge among the layman population regarding these conditions is often limited.  As a result, individuals frequently seek diagnosis and treatment at clinics, contributing to long waiting times and the necessity of taking medical leave from work. These factors contribute to increased healthcare burden and reduced productivity on both individual and societal levels.
@@ -9,12 +9,12 @@ In addition to the image classification component, another goal is to deploy the
 
 By incorporating comprehensive information into the application/website, individuals will have access to a reliable and accessible resource that not only aids in diagnosing their skin conditions but also offers valuable insights into their specific disease, potential treatment paths, and medication-related details. This should allow them to explore self-treatment options with over-the-counter products and potentially reduce the need for clinic visits and associated waiting times. This comprehensive approach has the potential to not only alleviate the strain on clinics and reduce waiting times but also empower individuals to make informed decisions about their skin health, enhancing productivity at both the individual and societal levels.
 
-<sup>1. https://www.a-star.edu.sg/News/astarNews/news/features/atopic-dermatitis-the-search-for-answers</sup>
+<sup>1. https://www.a-star.edu.sg/News/astarNews/news/features/atopic-dermatitis-the-search-for-answers</sup>  
 <sup>2. https://pubmed.ncbi.nlm.nih.gov/35535625/</sup>
 
 ### Objectives
 -   Develop an image classification model using convolutional neural networks (CNNs) to accurately classify five skin diseases (acne, eczema, fungal skin infections, psoriasis and warts).
--   Creating an user-friendly interface or application that allows individuals to upload images of their skin conditions. The application will provide a preliminary diagnosis along with helpful information and suggestions.
+-   Create an user-friendly interface or application that allows individuals to upload images of their skin conditions. The application will provide a preliminary diagnosis along with helpful information and suggestions.
 
 ---
 
