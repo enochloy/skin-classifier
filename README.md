@@ -18,6 +18,10 @@ By incorporating comprehensive information into the application/website, individ
 
 ---
 
+**Note: Model files are available in the releases section. Please download them and move them into the models directory if you want to run the code.**
+
+---
+
 ### Data
 
 **1. Kaggle (https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)**
