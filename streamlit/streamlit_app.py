@@ -46,7 +46,7 @@ def preprocess(image_data, size, conv_array=False):
 def local_css(file_name):
     with open(file_name) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-local_css("style.css")
+local_css(Path(__file__).parent / "style.css")
 
 url = 'https://github.com/enochloy/skin-classifier/releases/download/v1_models/eff_fine2.h5'
 filename = url.split('/')[-1]
