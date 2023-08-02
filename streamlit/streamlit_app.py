@@ -76,7 +76,6 @@ if menu_bar == 'Predictor':
     st.header("Upload an image file for prediction")
     img = st.file_uploader(label="", type=["jpg", "png"])
     if img is not None:
-        st.write(img.type)
         st.success("You have successfully uploaded an image")
         col1, col2, col3 = st.columns([1,1,1])
         with col2:
